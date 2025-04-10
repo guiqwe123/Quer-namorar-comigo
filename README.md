@@ -1,3 +1,5 @@
+# Acessar site: 🖥️ https://guiqwe123.github.io/Quer-namorar-comigo/
+
 # Will You Be My Valentine? 💌
 
 This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
@@ -8,9 +10,7 @@ I built this for **fun & learning**. If you fork or modify it:
 ✔ **Use it for creativity, personal projects, or learning**  
 ✔ **Give proper credit when using it in public**  
 ✔ **Respect the original creator’s work**  
-❌ **DO NOT try to profit from free content**  
 
- **If I find people selling this project, I will take action to prevent unauthorized use.**  
 
 
 
