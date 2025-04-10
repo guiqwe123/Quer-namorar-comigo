@@ -57,7 +57,7 @@ const messages = [
 
     "Tem certeza?",
     "Sério mesmo??",
-    "Tem certeza?",
+    "Tem certeza mesmo?",
     "Serio?, por favor...",
     "Pense nisso!",
     "Se você disser não, ficarei muito triste...",
